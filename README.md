@@ -1,4 +1,5 @@
 # Telegram Voice-Chat Bot [ Pytgcalls ]
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Darshanjk/musiq)
 
 Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In Your Group.
 
